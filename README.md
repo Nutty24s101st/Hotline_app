@@ -1,5 +1,8 @@
 # hotline_app
 
+แอปรวมเบอร์โทรเหตุฉุกเฉิน และแจ้งเหตุต่างๆ
+พัฒนาโดย Noppanut Khongwut
+
 A new Flutter project.
 
 ## Getting Started
